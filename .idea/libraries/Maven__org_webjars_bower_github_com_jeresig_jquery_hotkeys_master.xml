@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.webjars.bower:github-com-jeresig-jquery-hotkeys:master">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/bower/github-com-jeresig-jquery-hotkeys/master/github-com-jeresig-jquery-hotkeys-master.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/bower/github-com-jeresig-jquery-hotkeys/master/github-com-jeresig-jquery-hotkeys-master-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/bower/github-com-jeresig-jquery-hotkeys/master/github-com-jeresig-jquery-hotkeys-master-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

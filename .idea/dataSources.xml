@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="spring@localhost" uuid="be767fa3-cbb5-41b3-8c2a-21fd12e86d27">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/spring</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="CMSDatabase@localhost" uuid="50e846ee-c47b-453e-92d3-ac9efef950b8">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/CMSDatabase</jdbc-url>
+    </data-source>
+  </component>
+</project>
